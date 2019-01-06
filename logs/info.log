@@ -1,0 +1,6 @@
+{"level":"info","message":"Winston has been init","timestamp":"2019-01-01T07:34:15.190Z"}
+{"level":"info","message":"Winston has been init","timestamp":"2019-01-01T07:36:38.532Z"}
+{"level":"info","message":"Winston has been init","timestamp":"2019-01-01T07:37:19.822Z"}
+{"level":"info","message":"Mongo Connected!","timestamp":"2019-01-01T07:37:20.881Z"}
+{"level":"info","message":"Express started on (http://localhost:3000/)","timestamp":"2019-01-01T07:37:20.904Z"}
+{"version":"1.0.0","level":"info","message":"graphql-todo startup sequence completed","timestamp":"2019-01-01T07:37:20.906Z"}

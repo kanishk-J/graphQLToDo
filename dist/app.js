@@ -1,0 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const server_1 = require("./server");
+const server = new server_1.TodoApp(process.env.API_PORT || 3000);
+// starting the server
+server.startServer();
+
+//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3NyYy9hcHAudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsWUFBWSxDQUFDOztBQUNiLHFDQUFtQztBQUNuQyxNQUFNLE1BQU0sR0FBWSxJQUFJLGdCQUFPLENBQUMsT0FBTyxDQUFDLEdBQUcsQ0FBQyxRQUFRLElBQUksSUFBSSxDQUFDLENBQUM7QUFDbEUsc0JBQXNCO0FBQ3RCLE1BQU0sQ0FBQyxXQUFXLEVBQUUsQ0FBQyIsImZpbGUiOiJhcHAuanMiLCJzb3VyY2VzQ29udGVudCI6WyJcInVzZSBzdHJpY3RcIjtcclxuaW1wb3J0IHsgVG9kb0FwcCB9IGZyb20gXCIuL3NlcnZlclwiO1xyXG5jb25zdCBzZXJ2ZXI6IFRvZG9BcHAgPSBuZXcgVG9kb0FwcChwcm9jZXNzLmVudi5BUElfUE9SVCB8fCAzMDAwKTtcclxuLy8gc3RhcnRpbmcgdGhlIHNlcnZlclxyXG5zZXJ2ZXIuc3RhcnRTZXJ2ZXIoKTsiXX0=
